@@ -1,38 +1,54 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
-  # - title: info
-  #   entries:
-  #     - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-  #     - title: github repo
-  #       url: https://github.com/riggraz/no-style-please
-  #     - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+  - title: TODO links
+    entries:
+      - title: Java 8 to 18 > Most important changes in the Java Platform
+        url: https://www.youtube.com/watch?v=P7SI9mLwiqw
+      - title: Java First. Java Always
+        url: https://www.youtube.com/watch?v=g59PMSk1oAE
+      - title: MIT 6.006 Introduction to Algorithms, Spring 2020
+        url: https://www.youtube.com/watch?v=CHhwJjR0mZA&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=3
+      
+  - title: TODO tutorials
+    entries:
+      - title: spring (kotlin) + gradle + docker (+ native)
+      - title: spring (java) + maven + spring native + docker
+      - title: webflux + gradle + docker
+      - title: webflux + gradle + spring native + docker
+      - title: spring security
+      - title: project loom
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  # - title: rss
-  #   url: feed.xml
+  - title: WIP
+    entries:
+      - title: spring (kotlin) + gradle + docker
+      - title: George Hotz | Programming | so how does twitter work?
+        url: https://www.youtube.com/watch?v=z6xslDMimME&t=1992s
   
-  - title: another list
+  - title: DONE
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: A categorized list of all Java and JVM features since JDK 8 to 18
+        url: https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-18/
+
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+  # # - title: rss
+  # #   url: feed.xml
+  
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
