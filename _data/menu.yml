@@ -1,25 +1,23 @@
 entries:
-  - title: TODO links
+  - title: TODO
     entries:
-      - title: Java 8 to 18 > Most important changes in the Java Platform
-        url: https://www.youtube.com/watch?v=P7SI9mLwiqw
       - title: Java First. Java Always
         url: https://www.youtube.com/watch?v=g59PMSk1oAE
       - title: MIT 6.006 Introduction to Algorithms, Spring 2020
         url: https://www.youtube.com/watch?v=CHhwJjR0mZA&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=3
-      
-  - title: TODO tutorials
-    entries:
-      - title: spring (kotlin) + gradle + docker (+ native)
-      - title: spring (java) + maven + spring native + docker
+      - title: spring-boot + kotlin + gradle + docker (main+fix ref)
+      - title: spring-boot + kotlin + gradle + native images(GraalVM) (new branch+fix ref)
       - title: webflux + gradle + docker
-      - title: webflux + gradle + spring native + docker
+      - title: webflux + gradle + native images(GraalVM)
       - title: spring security
       - title: project loom
+      - title: git submodule/subtree
 
-  - title: WIP
+  - title: DOING
     entries:
-      - title: spring (kotlin) + gradle + docker
+      - title: spring-boot + java + maven + native images(GraalVM) > <a href='https://www.baeldung.com/spring-native-intro'>tut-ref/repo</a>
+      - title: Java 8 to 18 > Most important changes in the Java Platform
+        url: https://www.youtube.com/watch?v=P7SI9mLwiqw
       - title: George Hotz | Programming | so how does twitter work?
         url: https://www.youtube.com/watch?v=z6xslDMimME&t=1992s
   
@@ -27,6 +25,7 @@ entries:
     entries:
       - title: A categorized list of all Java and JVM features since JDK 8 to 18
         url: https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-18/
+      - title: spring-boot + kotlin + gradle > <a href='https://spring.io/guides/tutorials/spring-boot-kotlin/'>tut-ref/repo</a>, <a href='https://github.com/zypherscript/tut-spring-boot-kotlin-gradle'>my-tut-repo</a>
 
   # - title: all posts
   #   post_list:
