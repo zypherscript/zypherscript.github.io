@@ -18,14 +18,13 @@ entries:
       - title: spring-boot + java + maven + native images(GraalVM) > <a href='https://www.baeldung.com/spring-native-intro'>tut-ref/repo</a>
       - title: Java 8 to 18 > Most important changes in the Java Platform
         url: https://www.youtube.com/watch?v=P7SI9mLwiqw
-      - title: George Hotz | Programming | so how does twitter work?
-        url: https://www.youtube.com/watch?v=z6xslDMimME&t=1992s
   
   - title: DONE
     entries:
-      - title: A categorized list of all Java and JVM features since JDK 8 to 18
-        url: https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-18/
-      - title: spring-boot + kotlin + gradle > <a href='https://spring.io/guides/tutorials/spring-boot-kotlin/'>tut-ref/repo</a>, <a href='https://github.com/zypherscript/tut-spring-boot-kotlin-gradle'>my-tut-repo</a>
+      - title: 'Build Better, Deploy Faster: Spring Boot + Spring Cloud in the Cloud for frictionless Kubernetes bas'
+        url: https://www.youtube.com/watch?v=oBaaofLJ6_8
+      - title: Spring Security, demystified by Daniel Garnier Moiroux
+        url: https://www.youtube.com/watch?v=iJ2muJniikY&t=6547s
 
   # - title: all posts
   #   post_list:
