@@ -5,7 +5,7 @@ entries:
         url: https://spring.io/guides/topicals/spring-security-architecture/
       - title: 'Implement Micro Frontend in Angular - Explanation and Live Demo'
         url: https://www.youtube.com/watch?v=NCFQBRh3hZk
-      - title: 'Spring Boot Starter for Azure Active Directory developer's guide'
+      - title: 'Spring Boot Starter for Azure Active Directory developers guide'
         url: https://learn.microsoft.com/en-us/azure/developer/java/spring-framework/spring-boot-starter-for-azure-active-directory-developer-guide?tabs=SpringCloudAzure4x
   
   - title: DONE
@@ -26,7 +26,7 @@ entries:
         url: https://www.youtube.com/watch?v=l4ixnX22Oiw
       - title: 'Spring.next by Josh Long'
         url: https://www.youtube.com/watch?v=2Wnp6FdrTbI&t=1110s
-      - title: 'Josh Long — Spring Framework 6: Not Your Parents' Spring'
+      - title: 'Josh Long — Spring Framework 6: Not Your Parents Spring'
         url: https://www.youtube.com/watch?v=Bjfr1dz6O6I&t=778s
       - title: 'Reactive Spring • Josh Long • GOTO 2019'
         url: https://www.youtube.com/watch?v=1F10gr2pbvQ
