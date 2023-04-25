@@ -70,6 +70,10 @@ entries:
         url: https://spring.io/guides/gs/
       - title: react-and-spring-data-rest, spring-boot-kotlin
         url: https://spring.io/guides/tutorials/
+      - title: Guide to Quarkus
+        url: https://www.baeldung.com/quarkus-io
+      - title: Dropwizard Tutorial: Building a Hello World CRUD Example
+        url: https://howtodoinjava.com/dropwizard/tutorial-and-hello-world-example/
 
 
   # - title: all posts
