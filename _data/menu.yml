@@ -72,7 +72,7 @@ entries:
         url: https://spring.io/guides/tutorials/
       - title: Guide to Quarkus
         url: https://www.baeldung.com/quarkus-io
-      - title: Dropwizard Tutorial: Building a Hello World CRUD Example
+      - title: 'Dropwizard Tutorial: Building a Hello World CRUD Example'
         url: https://howtodoinjava.com/dropwizard/tutorial-and-hello-world-example/
 
 
