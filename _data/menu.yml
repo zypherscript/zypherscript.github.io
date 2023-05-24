@@ -94,6 +94,10 @@ entries:
         url: https://spring.io/guides/topicals/spring-security-architecture/
       - title: 'Implementing an OAuth 2 authorization server with Spring Security - the new way! by Laurentiu Spilca'
         url: https://www.youtube.com/watch?v=DaUGKnA7aro
+      - title: 'Spring I/O 2023 - Keynote'
+        url: https://www.youtube.com/watch?v=IgmeFeTU1a4
+      - title: 'Organizing Layers Using Hexagonal Architecture, DDD, and Spring'
+        url: https://www.baeldung.com/hexagonal-architecture-ddd-spring
 
   # - title: all posts
   #   post_list:
