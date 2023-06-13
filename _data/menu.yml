@@ -5,10 +5,6 @@ entries:
         url: https://www.youtube.com/watch?v=IgmeFeTU1a4&list=PLe6FX2SlkJdTlHjktJqUWaFtaRBOkZ8JZ&index=1
       - title: 'Introduction to Spring Data Elasticsearch'
         url: https://www.baeldung.com/spring-data-elasticsearch-tutorial
-      - title: 'Spring Cloud AWS - RDS'
-        url: https://www.baeldung.com/spring-cloud-aws-rds
-      - title: 'spring-cloud-gcp: bigquery'
-        url: https://googlecloudplatform.github.io/spring-cloud-gcp/2.0.0-RC2/reference/html/index.html#bigquery
       - title: 'Messaging with Spring AMQP'
         url: https://www.baeldung.com/spring-amqp
       - title: 'Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022'
