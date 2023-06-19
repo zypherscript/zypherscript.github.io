@@ -3,8 +3,6 @@ entries:
     entries:
       - title: 'Spring I/O 2023'
         url: https://www.youtube.com/watch?v=IgmeFeTU1a4&list=PLe6FX2SlkJdTlHjktJqUWaFtaRBOkZ8JZ&index=1
-      - title: 'Introduction to Spring Data Elasticsearch'
-        url: https://www.baeldung.com/spring-data-elasticsearch-tutorial
       - title: 'Messaging with Spring AMQP'
         url: https://www.baeldung.com/spring-amqp
       - title: 'Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022'
@@ -100,6 +98,8 @@ entries:
         url: https://www.youtube.com/watch?v=DaUGKnA7aro
       - title: 'Organizing Layers Using Hexagonal Architecture, DDD, and Spring'
         url: https://www.baeldung.com/hexagonal-architecture-ddd-spring
+      - title: 'Introduction to Spring Data Elasticsearch'
+        url: https://www.baeldung.com/spring-data-elasticsearch-tutorial
 
   # - title: all posts
   #   post_list:
