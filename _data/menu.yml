@@ -7,6 +7,8 @@ entries:
         url: https://www.youtube.com/watch?v=Q_0XW46IlHY
       - title: 'Introduction to Micronaut Framework'
         url: https://www.baeldung.com/micronaut
+      - title: 'Learn Go with Tests'
+        url: https://quii.gitbook.io/learn-go-with-tests/
       - title: 'Tutorial: Developing a RESTful API with Go and Gin'
         url: https://go.dev/doc/tutorial/web-service-gin
       - title: 'Implement Micro Frontend in Angular - Explanation and Live Demo'
