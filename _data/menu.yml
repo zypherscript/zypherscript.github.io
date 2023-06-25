@@ -3,6 +3,10 @@ entries:
     entries:
       - title: 'Spring I/O 2023'
         url: https://www.youtube.com/watch?v=IgmeFeTU1a4&list=PLe6FX2SlkJdTlHjktJqUWaFtaRBOkZ8JZ&index=1
+      - title: 'Serverless Functions with Spring Cloud Function'
+        url: https://www.baeldung.com/spring-cloud-function
+      - title: 'Spring Data MongoDB Transactions'
+        url: https://www.baeldung.com/spring-data-mongodb-transactions
       - title: 'Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022'
         url: https://www.youtube.com/watch?v=Q_0XW46IlHY
       - title: 'Introduction to Micronaut Framework'
