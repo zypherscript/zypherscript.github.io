@@ -1,8 +1,6 @@
 entries:
   - title: TODO
     entries:
-      - title: 'Spring I/O 2023'
-        url: https://www.youtube.com/watch?v=IgmeFeTU1a4&list=PLe6FX2SlkJdTlHjktJqUWaFtaRBOkZ8JZ&index=1
       - title: 'Spring Boot Support for jOOQ'
         url: https://www.baeldung.com/spring-boot-support-for-jooq
       - title: 'Spring Data MongoDB Transactions'
@@ -104,6 +102,8 @@ entries:
         url: https://www.baeldung.com/spring-data-elasticsearch-tutorial
       - title: 'Messaging with Spring AMQP'
         url: https://spring.io/guides/gs/messaging-rabbitmq/
+      - title: 'Spring I/O 2023 (interesting stuff)'
+        url: https://www.youtube.com/watch?v=IgmeFeTU1a4&list=PLe6FX2SlkJdTlHjktJqUWaFtaRBOkZ8JZ&index=1
 
   # - title: all posts
   #   post_list:
