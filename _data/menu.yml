@@ -104,6 +104,8 @@ entries:
         url: https://spring.io/guides/gs/messaging-rabbitmq/
       - title: 'Spring I/O 2023 (interesting stuff)'
         url: https://www.youtube.com/watch?v=IgmeFeTU1a4&list=PLe6FX2SlkJdTlHjktJqUWaFtaRBOkZ8JZ&index=1
+      - title: '[RECAP] Java Concurrency'
+        url: https://www.baeldung.com/java-concurrency
 
   # - title: all posts
   #   post_list:
