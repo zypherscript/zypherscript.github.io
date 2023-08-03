@@ -1,12 +1,16 @@
 entries:
   - title: TODO
     entries:
+      - title: 'Introduction to Spring Cloud OpenFeign'
+        url: https://www.baeldung.com/spring-cloud-openfeign
+      - title: 'Testing API performance'
+        url: https://learning.postman.com/docs/collections/testing-api-performance/
+      - title: 'Microbenchmarking with Java'
+        url: https://www.baeldung.com/java-microbenchmark-harness
       - title: 'Spring Boot Support for jOOQ'
         url: https://www.baeldung.com/spring-boot-support-for-jooq
       - title: 'Spring Data MongoDB Transactions'
         url: https://www.baeldung.com/spring-data-mongodb-transactions
-      - title: 'Microbenchmarking with Java'
-        url: https://www.baeldung.com/java-microbenchmark-harness
       - title: 'Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022'
         url: https://www.youtube.com/watch?v=Q_0XW46IlHY
       - title: 'Introduction to Spring Modulith'
