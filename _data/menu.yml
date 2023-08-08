@@ -1,10 +1,6 @@
 entries:
   - title: TODO
     entries:
-      - title: 'Generating PDF Files Using Thymeleaf'
-        url: https://www.baeldung.com/thymeleaf-generate-pdf
-      - title: 'Spring Boot Support for jOOQ'
-        url: https://www.baeldung.com/spring-boot-support-for-jooq
       - title: 'Spring Data MongoDB Transactions'
         url: https://www.baeldung.com/spring-data-mongodb-transactions
       - title: 'Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022'
@@ -108,6 +104,18 @@ entries:
         url: https://www.youtube.com/watch?v=IgmeFeTU1a4&list=PLe6FX2SlkJdTlHjktJqUWaFtaRBOkZ8JZ&index=1
       - title: '[RECAP] Java Concurrency'
         url: https://www.baeldung.com/java-concurrency
+      - title: 'Serverless Functions with Spring Cloud Function'
+        url: https://www.baeldung.com/spring-cloud-function
+      - title: 'Introduction to Spring Cloud OpenFeign'
+        url: https://www.baeldung.com/spring-cloud-openfeign
+      - title: 'Testing API performance'
+        url: https://learning.postman.com/docs/collections/testing-api-performance/
+      - title: 'Microbenchmarking with Java'
+        url: https://www.baeldung.com/java-microbenchmark-harness
+      - title: 'Generating PDF Files Using Thymeleaf'
+        url: https://www.baeldung.com/thymeleaf-generate-pdf
+      - title: 'Spring Boot with jOOQ and PostgreSQL'
+        url: https://boottechnologies-ci.medium.com/spring-boot-with-jooq-and-postgresql-4a86378a4e5e
 
   # - title: all posts
   #   post_list:
