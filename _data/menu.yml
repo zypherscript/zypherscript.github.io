@@ -1,6 +1,8 @@
 entries:
   - title: TODO
     entries:
+      - title: 'Generating PDF Files Using Thymeleaf'
+        url: https://www.baeldung.com/thymeleaf-generate-pdf
       - title: 'Spring Boot Support for jOOQ'
         url: https://www.baeldung.com/spring-boot-support-for-jooq
       - title: 'Spring Data MongoDB Transactions'
