@@ -1,6 +1,12 @@
 entries:
   - title: TODO
     entries:
+      - title: 'A Java 8 lambda is all you need for distributed background jobs! by Ronald Dehuysser'
+        url: https://www.youtube.com/watch?v=R0Z4E0ybmjU
+      - title: 'Introduction and pitfalls of Java's new concurrency model by David Vlijmincx'
+        url: https://www.youtube.com/watch?v=UjzLaVI87mA
+      - title: '[VDIASI23] - Rustam Mehmandarov & Mads Opheim - Modern Java App Development in the Cloud'
+        url: https://www.youtube.com/watch?v=KVXTLlQzuoc
       - title: 'Spring Data MongoDB Transactions'
         url: https://www.baeldung.com/spring-data-mongodb-transactions
       - title: 'Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022'
