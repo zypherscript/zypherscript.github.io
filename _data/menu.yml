@@ -1,10 +1,6 @@
 entries:
   - title: TODO
     entries:
-      - title: 'A Java 8 lambda is all you need for distributed background jobs! by Ronald Dehuysser'
-        url: https://www.youtube.com/watch?v=R0Z4E0ybmjU
-      - title: 'Introduction and pitfalls of Java's new concurrency model by David Vlijmincx'
-        url: https://www.youtube.com/watch?v=UjzLaVI87mA
       - title: '[VDIASI23] - Rustam Mehmandarov & Mads Opheim - Modern Java App Development in the Cloud'
         url: https://www.youtube.com/watch?v=KVXTLlQzuoc
       - title: 'Spring Data MongoDB Transactions'
@@ -122,6 +118,10 @@ entries:
         url: https://www.baeldung.com/thymeleaf-generate-pdf
       - title: 'Spring Boot with jOOQ and PostgreSQL'
         url: https://boottechnologies-ci.medium.com/spring-boot-with-jooq-and-postgresql-4a86378a4e5e
+      - title: 'A Java 8 lambda is all you need for distributed background jobs! by Ronald Dehuysser'
+        url: https://www.youtube.com/watch?v=R0Z4E0ybmjU
+      - title: 'Introduction and pitfalls of Javas new concurrency model by David Vlijmincx'
+        url: https://www.youtube.com/watch?v=UjzLaVI87mA
 
   # - title: all posts
   #   post_list:
