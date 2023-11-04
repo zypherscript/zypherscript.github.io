@@ -1,8 +1,8 @@
 entries:
   - title: TODO
     entries:
-      - title: '[VDIASI23] - Rustam Mehmandarov & Mads Opheim - Modern Java App Development in the Cloud'
-        url: https://www.youtube.com/watch?v=KVXTLlQzuoc
+      - title: 'Quick Guide to Spring Cloud Circuit Breaker'
+        url: https://www.baeldung.com/spring-cloud-circuit-breaker
       - title: 'Spring Data MongoDB Transactions'
         url: https://www.baeldung.com/spring-data-mongodb-transactions
       - title: 'Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022'
@@ -122,6 +122,8 @@ entries:
         url: https://www.youtube.com/watch?v=R0Z4E0ybmjU
       - title: 'Introduction and pitfalls of Javas new concurrency model by David Vlijmincx'
         url: https://www.youtube.com/watch?v=UjzLaVI87mA
+      - title: '[VDIASI23] - Rustam Mehmandarov & Mads Opheim - Modern Java App Development in the Cloud'
+        url: https://www.youtube.com/watch?v=KVXTLlQzuoc
 
   # - title: all posts
   #   post_list:
