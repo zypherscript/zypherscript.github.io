@@ -7,6 +7,8 @@ entries:
         url: https://www.youtube.com/watch?v=Q_0XW46IlHY
       - title: 'Introduction to Spring Modulith'
         url: https://www.baeldung.com/spring-modulith
+      - title: 'Go Programming!'
+        url: https://www.youtube.com/watch?v=_F7qqth3WWw&list=PLyZTXfAT27ib7T9Eg3qhvDE5rgvjQk4OL
       - title: 'Tutorial: Developing a RESTful API with Go and Gin'
         url: https://go.dev/doc/tutorial/web-service-gin
       - title: 'Introduction to Micronaut Framework'
@@ -126,6 +128,8 @@ entries:
         url: https://www.youtube.com/watch?v=q2T9NlROLqw
       - title: 'Quick Guide to Spring Cloud Circuit Breaker'
         url: https://www.baeldung.com/spring-cloud-circuit-breaker
+      - title: 'Javas Hidden Gems: Tools and Libraries by Johan Janssen'
+        url: https://www.youtube.com/watch?v=ABm0KhsZJ0c
 
   # - title: all posts
   #   post_list:
