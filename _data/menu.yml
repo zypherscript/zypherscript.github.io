@@ -132,6 +132,8 @@ entries:
         url: https://www.baeldung.com/spring-cloud-circuit-breaker
       - title: 'Javas Hidden Gems: Tools and Libraries by Johan Janssen'
         url: https://www.youtube.com/watch?v=ABm0KhsZJ0c
+      - title: 'Venkat Subramaniam: Kotlin for Java programmers'
+        url: https://www.youtube.com/watch?v=fsNhjYgXxlg&t=2664s
 
   # - title: all posts
   #   post_list:
