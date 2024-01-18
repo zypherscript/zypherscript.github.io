@@ -1,8 +1,6 @@
 entries:
   - title: TODO
     entries:
-      - title: 'Spring Data MongoDB Transactions'
-        url: https://www.baeldung.com/spring-data-mongodb-transactions
       - title: 'Introduction to Spring Modulith'
         url: https://www.baeldung.com/spring-modulith
       - title: 'Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022'
@@ -134,6 +132,8 @@ entries:
         url: https://www.youtube.com/watch?v=ABm0KhsZJ0c
       - title: 'Venkat Subramaniam: Kotlin for Java programmers'
         url: https://www.youtube.com/watch?v=fsNhjYgXxlg&t=2664s
+      - title: 'Spring Data MongoDB Transactions'
+        url: https://www.baeldung.com/spring-data-mongodb-transactions
 
   # - title: all posts
   #   post_list:
